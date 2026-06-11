@@ -1,0 +1,51 @@
+user_id,name,age,occupation,condition_label,enrollment_date,avg_mood_14d,avg_stress_14d,avg_sleep_14d,avg_energy_14d,social_interactions_per_week,exercise_sessions_per_week,screen_time_hours_daily,work_hours_daily,latest_journal
+VT001,Alex Chen,39,Teacher,severe_stress,2026-03-13,1.86,9.61,4.19,3.71,3,1,9.8,13.0,Slept badly again. Keep waking up at 3am with anxiety.
+VT002,Jordan Rivera,30,Project Manager,moderate_stress,2026-03-23,3.86,7.54,5.54,5.27,4,1,8.7,12.7,Crying without a clear reason. Emotional exhaustion kicking in.
+VT003,Sam Patel,33,Artist,moderate_stress,2025-06-14,3.86,7.54,5.49,5.39,5,3,5.9,8.9,Feel completely drained. No motivation to do anything.
+VT004,Morgan Lee,32,Graduate Student,mild_stress,2025-10-12,5.73,5.69,6.81,6.49,5,3,4.1,12.2,Average day. Nothing remarkable happened.
+VT005,Casey Kim,30,Nurse,healthy,2025-09-14,7.59,3.08,7.43,7.52,6,4,8.7,11.2,Took a mental health day. It was exactly what I needed.
+VT006,Riley Thompson,43,Freelance Designer,depression_indicators,2026-01-21,1.35,6.33,6.74,1.86,0,0,5.4,11.9,Can't stop ruminating. Negative thoughts won't quiet down.
+VT007,Taylor Nguyen,35,Project Manager,severe_stress,2026-03-13,1.95,9.51,4.29,3.14,2,0,7.6,13.7,Overwhelmed by everything. Don't know where to start.
+VT008,Drew Martinez,25,Software Engineer,mild_stress,2025-11-03,5.68,5.64,6.71,6.16,5,3,8.2,9.1,"The week has been steady, nothing extreme."
+VT009,Cameron Singh,38,Researcher,severe_stress,2026-02-19,2.16,9.46,4.23,3.68,3,0,4.9,8.2,Overwhelmed by everything. Don't know where to start.
+VT010,Avery Johnson,36,Journalist,moderate_stress,2025-11-06,3.68,7.44,5.49,4.89,5,3,6.8,7.4,Average day. Nothing remarkable happened.
+VT011,Blake Williams,42,Entrepreneur,burnout_risk,2026-03-20,2.21,9.34,4.43,2.37,3,1,9.2,13.1,Stress is through the roof. Snapped at a colleague today.
+VT012,Emery Davis,22,Marketing Manager,moderate_stress,2025-12-21,3.85,7.26,5.45,4.8,5,2,4.1,12.8,Another late night. Sacrificed sleep for work again.
+VT013,Finley Brown,43,Medical Resident,mild_stress,2025-12-06,5.57,5.97,6.92,6.49,7,3,4.7,7.3,"Managing everything, just a bit worn."
+VT014,Harper Wilson,25,Financial Analyst,healthy,2025-06-30,7.44,3.04,7.53,7.61,7,5,7.6,10.2,Meditation session helped. Mind feels clearer.
+VT015,Indigo Garcia,31,Entrepreneur,anxiety_trend,2025-06-26,3.32,8.46,4.86,4.6,2,2,9.1,13.8,Crying without a clear reason. Emotional exhaustion kicking in.
+VT016,Jamie Anderson,22,Social Worker,anxiety_trend,2025-11-06,3.44,8.82,4.94,4.47,3,1,8.8,11.3,Busy with work but managing okay.
+VT017,Kennedy Thomas,25,Financial Analyst,mild_stress,2025-08-16,5.76,5.6,6.64,6.42,5,2,8.2,13.9,Busy with work but managing okay.
+VT018,Logan Jackson,33,Researcher,severe_stress,2025-09-12,2.14,9.46,4.47,3.41,3,1,5.4,8.7,Stress is through the roof. Snapped at a colleague today.
+VT019,Mason White,43,Entrepreneur,burnout_risk,2026-02-04,2.36,9.29,4.65,2.49,2,0,7.7,8.7,Stress is through the roof. Snapped at a colleague today.
+VT020,Nat Harris,38,Researcher,healthy,2025-10-04,7.47,2.86,7.63,7.3,7,5,5.8,10.1,Caught up with an old friend. It was really uplifting.
+VT021,Olivia Martin,33,Entrepreneur,depression_indicators,2025-07-21,1.59,6.16,6.82,2.07,0,0,8.7,7.2,"The week has been steady, nothing extreme."
+VT022,Parker Robinson,39,Marketing Manager,moderate_stress,2025-11-28,3.84,7.51,5.61,4.79,4,1,6.0,8.0,Missed another workout. Just too exhausted to care.
+VT023,Quinn Clark,34,Marketing Manager,burnout_risk,2025-11-24,2.37,9.43,4.64,2.3,3,1,4.9,13.3,Overwhelmed by everything. Don't know where to start.
+VT024,Rowan Lewis,27,Consultant,resilient,2025-07-28,8.11,2.09,8.19,8.47,7,6,8.2,9.2,Had some ups and downs but overall okay.
+VT025,Sage Walker,31,Teacher,anxiety_trend,2025-09-18,3.33,8.82,4.96,4.51,3,2,5.2,7.8,Another late night. Sacrificed sleep for work again.
+VT026,Skylar Hall,44,Nurse,burnout_risk,2026-04-12,2.31,9.32,4.49,2.13,3,1,4.5,10.6,"Routine day. Met deadlines, nothing special."
+VT027,Sterling Allen,38,Artist,severe_stress,2026-04-12,1.97,9.56,4.09,3.54,2,0,7.2,12.3,Anxiety spike this morning. Heart was racing for no reason.
+VT028,Tatum Young,31,Financial Analyst,moderate_stress,2025-08-29,3.84,7.49,5.55,4.94,5,3,6.2,8.8,Can't stop ruminating. Negative thoughts won't quiet down.
+VT029,Umber Hernandez,45,Journalist,moderate_stress,2026-01-15,3.88,7.32,5.71,5.15,3,2,9.8,10.2,Slept badly again. Keep waking up at 3am with anxiety.
+VT030,Vale King,42,Medical Resident,anxiety_trend,2025-11-29,3.31,8.91,4.87,4.41,3,3,8.7,8.1,"Managing everything, just a bit worn."
+VT031,Wren Wright,24,Software Engineer,depression_indicators,2025-09-16,1.44,6.25,6.82,1.94,2,2,5.1,12.4,Crying without a clear reason. Emotional exhaustion kicking in.
+VT032,Xander Scott,36,Data Scientist,burnout_risk,2026-03-16,2.23,9.24,4.39,2.59,1,2,4.7,12.9,Can't stop ruminating. Negative thoughts won't quiet down.
+VT033,Yael Green,45,Financial Analyst,burnout_risk,2025-09-25,2.01,9.36,4.51,2.46,2,1,8.1,9.9,Withdrew from social plans again. Don't feel like seeing anyone.
+VT034,Zara Baker,24,Software Engineer,depression_indicators,2025-09-21,1.43,6.31,6.69,2.29,0,2,7.8,11.4,Feel completely drained. No motivation to do anything.
+VT035,Adrian Adams,34,Lawyer,mild_stress,2026-03-01,5.61,5.66,6.61,6.52,7,2,4.6,9.6,Work was demanding but I handled it.
+VT036,Briar Nelson,42,Marketing Manager,resilient,2026-03-31,8.34,2.17,8.11,8.65,9,6,7.7,8.9,Average day. Nothing remarkable happened.
+VT037,Cedar Carter,26,Chef,resilient,2025-08-26,8.21,2.01,8.1,8.97,8,5,9.0,11.0,"Routine day. Met deadlines, nothing special."
+VT038,Demi Mitchell,27,Financial Analyst,healthy,2026-02-20,7.5,3.01,7.51,7.46,6,3,4.8,12.4,Exercised this morning. Body and mind feel aligned.
+VT039,Evan Perez,36,Entrepreneur,severe_stress,2026-04-09,2.05,9.65,4.35,3.74,3,1,7.0,13.2,Slept badly again. Keep waking up at 3am with anxiety.
+VT040,Faye Roberts,34,Marketing Manager,anxiety_trend,2025-08-14,3.27,8.78,4.88,4.39,4,3,9.5,12.4,"Managing everything, just a bit worn."
+VT041,Gray Turner,33,Consultant,healthy,2026-04-03,7.28,2.91,7.46,7.62,6,4,4.1,8.8,Caught up with an old friend. It was really uplifting.
+VT042,Haven Phillips,34,Nurse,burnout_risk,2025-08-26,2.13,9.34,4.61,2.79,2,0,6.4,13.0,Overwhelmed by everything. Don't know where to start.
+VT043,Iris Campbell,40,Marketing Manager,healthy,2026-03-26,7.91,3.02,7.46,7.81,7,4,5.6,9.9,"Routine day. Met deadlines, nothing special."
+VT044,Juno Parker,28,Artist,mild_stress,2025-10-31,5.79,5.54,6.55,6.43,7,2,4.0,14.0,Accomplished my goals for the week. Proud of myself.
+VT045,Kai Evans,41,Data Scientist,mild_stress,2026-01-28,5.87,5.56,6.58,6.68,6,3,4.3,13.0,Feel completely drained. No motivation to do anything.
+VT046,Lake Edwards,40,Entrepreneur,mild_stress,2026-03-12,5.87,5.56,6.76,6.88,7,2,7.9,7.1,"Routine day. Met deadlines, nothing special."
+VT047,Miles Collins,34,Teacher,moderate_stress,2026-02-14,3.97,7.61,5.46,5.04,4,3,9.1,12.6,Feeling isolated. Haven't really talked to anyone meaningful.
+VT048,Nova Stewart,44,Medical Resident,healthy,2025-07-05,7.49,3.04,7.46,7.41,7,3,7.3,7.0,Caught up with an old friend. It was really uplifting.
+VT049,Ocean Morris,38,Chef,healthy,2025-09-21,7.54,3.05,7.53,7.51,6,4,6.4,9.4,Feeling okay. Neither great nor bad.
+VT050,Piper Rogers,35,Lawyer,anxiety_trend,2025-08-20,3.24,8.65,5.02,4.45,3,1,9.9,7.5,Another late night. Sacrificed sleep for work again.
